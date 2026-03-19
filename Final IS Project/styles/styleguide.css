@@ -1,0 +1,37 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif!important ;
+    background-color: rgb(174, 111, 65)!important ;
+    color: azure!important ;}
+.resumeheader{
+    font-display: block!important ;
+    color: rgb(146, 173, 223)!important ;
+    font-weight:bold!important ;}
+
+.justify{text-align: justify!important ;}
+.italic{font-style: italic!important ;}
+
+.header{
+    top: 5px!important ;
+    left: 5px!important ;
+    right: 5px!important ;
+    height: 50px!important ;
+    border-bottom: solid 3px rgb(146, 173, 223)!important ;
+}
+.middle{
+    top: 60px!important ;
+    left: 5px!important ;
+    right: 5px!important ;
+}
+.footer{
+    bottom:5px!important ;
+    left:5px!important ;
+    right: 5px!important ;
+    height: 50px!important ;
+    position:fixed!important ;
+    background-color: rgb(174, 111, 65)!important ;
+    border-top: solid 3px rgb(146, 173, 223)!important ;
+}
+.smalltext{
+    font-size: 12px!important ;
+    color: black!important ;
+}
